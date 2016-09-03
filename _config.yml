@@ -1,0 +1,26 @@
+name: Divine Union
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1de7aa9-a799-4edd-81a9-dc2bdbc0559f.png
+layout_spectrum: 0.19538137427925673
+typography_spectrum: 0.9968915921750383
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.8179121818393732
+  lightness: 0.10247166687708453
+  saturation: 0.9458065602255918
+  rhythmicContrast: 0.3365215055520434
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
